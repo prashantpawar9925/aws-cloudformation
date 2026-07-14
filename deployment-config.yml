@@ -1,1 +1,3 @@
-template-file-path: new-multiweb.yml
+template-file-path: deployment-config.yml
+parameters: {}
+tags: {}
