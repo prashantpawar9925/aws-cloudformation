@@ -2,7 +2,7 @@ Resources:
   SimpleInstanceCreate:
     Type: "AWS::EC2::Instance"
     Properties:
-      AvailabilityZone: "ap-south-1a"
+      AvailabilityZone: "ap-south-1b"
       ImageId: "ami-01a00762f46d584a1"
       InstanceType: "t2.micro"
       Tags:
