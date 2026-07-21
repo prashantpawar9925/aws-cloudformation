@@ -8,3 +8,7 @@ Resources:
       Tags:
         - Key: Name
           Value: Test_CFN_Server
+
+Resources:
+  MySimpleS3Bucket:
+    Type: AWS::S3::Bucket          
